@@ -87,6 +87,7 @@
 @@||tiktokrow-cdn.com^
 ! Khác
 @@||locketcamera.com^
+@@||canva.com^
 
 ! --- 6. GOOGLE & YOUTUBE ---
 @@||google.com^

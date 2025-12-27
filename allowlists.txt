@@ -175,9 +175,62 @@
 @@||protonmail.com^
 @@||piscale.com^
 
-! ---12. NỀN TẢNG KINH DOANH ---
+! --- 12. NỀN TẢNG KINH DOANH ---
 @@||pancake.vn^
 
 ! --- 13. CÔNG CỤ PHÁT TRIỂN ---
+@@||th.pro.vn^
 @@||jetbrains.com^
 @@||ubuntu.com^
+
+@@||chatgpt.com^
+@@||openai.com^
+@@||platform.openai.com^
+@@||gemini.google.com^
+@@||ai.google.com^
+@@||claude.ai^
+@@||anthropic.com^
+@@||perplexity.ai^
+@@||copilot.microsoft.com^
+
+@@||docker.com^
+@@||docs.docker.com^
+@@||hub.docker.com^
+
+@@||github.com^
+@@||githubusercontent.com^
+@@||gitlab.com^
+@@||bitbucket.org^
+
+@@||npmjs.com^
+@@||registry.npmjs.org^
+@@||yarnpkg.com^
+@@||packagist.org^
+@@||pypi.org^
+@@||rubygems.org^
+@@||maven.apache.org^
+@@||repo.maven.apache.org^
+
+@@||cloudflare.com^
+@@||amazonaws.com^
+@@||aws.amazon.com^
+@@||azure.com^
+@@||digitalocean.com^
+@@||vercel.com^
+@@||netlify.com^
+
+@@||debian.org^
+@@||archlinux.org^
+@@||kernel.org^
+@@||readthedocs.io^
+
+@@||grafana.com^
+@@||prometheus.io^
+@@||elastic.co^
+@@||sentry.io^
+
+@@||stackoverflow.com^
+@@||serverfault.com^
+@@||superuser.com^
+@@||medium.com^
+@@||dev.to^

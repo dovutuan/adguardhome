@@ -196,6 +196,7 @@
 @@||docker.com^
 @@||docs.docker.com^
 @@||hub.docker.com^
+@@||docker.io^
 
 @@||github.com^
 @@||githubusercontent.com^

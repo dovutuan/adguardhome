@@ -133,7 +133,7 @@
 @@||vinaphone.com.vn^
 @@||mobifone.vn^
 @@||fpt.vn^
-@@||chatgpt.com^
+@@||tuyaus.com^
 
 ! --- 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
 @@||cloudflare.com^
@@ -177,6 +177,7 @@
 
 ! --- 12. NỀN TẢNG KINH DOANH ---
 @@||pancake.vn^
+@@||pages.fm^
 
 ! --- 13. CÔNG CỤ PHÁT TRIỂN ---
 @@||th.pro.vn^
@@ -199,6 +200,7 @@
 @@||docker.io^
 
 @@||github.com^
+@@||ghcr.io^
 @@||githubusercontent.com^
 @@||gitlab.com^
 @@||bitbucket.org^

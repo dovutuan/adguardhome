@@ -134,6 +134,7 @@
 @@||mobifone.vn^
 @@||fpt.vn^
 @@||tuyaus.com^
+@@||ezvizlife.com^
 
 ! --- 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
 @@||cloudflare.com^
